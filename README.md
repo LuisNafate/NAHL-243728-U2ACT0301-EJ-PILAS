@@ -8,14 +8,14 @@
 
 ---
 
-## 📋 Resumen Ejecutivo
+## Resumen Ejecutivo
 
 Este proyecto implementa y demuestra el uso práctico de la estructura de datos **Pila (Stack)** en Java, aplicando el principio LIFO (Last In, First Out) en dos casos de uso del mundo real:
 
 1. **Sistema de Navegación Web** - Implementación de botones Atrás/Adelante
 2. **Editor de Texto con Undo/Redo** - Sistema de deshacer/rehacer usando el patrón Command
 
-### 🎯 Logros del Proyecto
+### Logros del Proyecto
 
 ✅ **Implementación Completa** de estructura de datos Pila  
 ✅ **Patrón de Diseño Command** aplicado correctamente  
@@ -142,7 +142,7 @@ Una **pila** es una estructura de datos que sigue el principio **LIFO** (Last In
 
 ---
 
-## 🏗️ Arquitectura del Proyecto
+## Arquitectura del Proyecto
 
 ### Patrón de Diseño: Command Pattern
 ```
@@ -162,7 +162,7 @@ Comando (Interface)
 
 ---
 
-## 📊 Características Técnicas
+## Características Técnicas
 
 - **Lenguaje:** Java SE 8+
 - **Estructura de Datos:** `java.util.Stack<E>`
@@ -183,7 +183,7 @@ Comando (Interface)
   - `editor`: Lógica del editor de texto
   - `navegacion`: Lógica del historial de navegación
 
-## 📚 Documentación Adicional
+## Documentación Adicional
 
 ### Documentos Incluidos en el Repositorio:
 
@@ -213,7 +213,7 @@ Comando (Interface)
 
 ---
 
-## 🚀 Ejecución del Proyecto
+## Ejecución del Proyecto
 
 ### Resultado Esperado:
 Al ejecutar el proyecto, se demuestran:
@@ -241,7 +241,7 @@ EJEMPLOS DE PILAS - ESTRUCTURAS DE DATOS
 
 ---
 
-## 📦 Contenido del Repositorio
+## Contenido del Repositorio
 
 ```
 U2ACT0301-EJ-PILAS/
@@ -261,7 +261,7 @@ U2ACT0301-EJ-PILAS/
 
 ---
 
-## 🎓 Aprendizajes Clave
+## Aprendizajes Clave
 
 ### Conceptos Implementados:
 1. **Principio LIFO** - Last In, First Out
@@ -279,14 +279,14 @@ U2ACT0301-EJ-PILAS/
 
 ---
 
-## 📄 Documentación Adicional
+## Documentación Adicional
 
-- 📄 **INFORME_ACTIVIDAD.md**: Informe completo con diagramas de clases y ejemplos de uso
-- 📄 **MEJORAS_IMPLEMENTADAS.md**: Detalle de todas las mejoras aplicadas al proyecto
+- **INFORME_ACTIVIDAD.md**: Informe completo con diagramas de clases y ejemplos de uso
+- **MEJORAS_IMPLEMENTADAS.md**: Detalle de todas las mejoras aplicadas al proyecto
 
 ---
 
-## 🔗 Repositorio
+## Repositorio
 
 **URL:** https://github.com/LuisNafate/NAHL-243728-U2ACT0301-EJ-PILAS
 
@@ -294,7 +294,7 @@ U2ACT0301-EJ-PILAS/
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Luis Alberto Nafate Hernández**  
 Estudiante de Ingeniería en Tecnologías de la Información y Desarrollo (TIID)  
@@ -306,19 +306,19 @@ Grado: 4-B
 
 ---
 
-## 📅 Fecha
+## Fecha
 
 Octubre 2025
 
 ---
 
-## 📝 Licencia
+## Licencia
 
 Proyecto académico - Universidad Politécnica de Chiapas
 
 ---
 
-## ⭐ Agradecimientos
+## Agradecimientos
 
 Este proyecto fue desarrollado como parte de la asignatura de Estructuras de Datos, aplicando conocimientos teóricos en casos de uso prácticos del mundo real.
  
